@@ -1,0 +1,20 @@
+tokens:
+  - "d0ecb9b8-31b3-46bb-a9dd-a2682a847cb0"
+rules4win:
+  - "PROCESS-NAME,Lark.exe,lark"
+  - "DOMAIN-KEYWORD,byteoversea,lark"
+  - "DOMAIN-KEYWORD,lark,lark"
+rules4mac:
+  - "PROCESS-NAME,Lark,lark"
+  - "PROCESS-NAME,Lark Helper,lark"
+  - "DOMAIN-KEYWORD,byteoversea,lark"
+  - "DOMAIN-KEYWORD,lark,lark"
+rules4ios:
+  - "PROCESS-NAME,Lark,lark"
+  - "PROCESS-NAME,Lark Helper,lark"
+  - "DOMAIN-KEYWORD,byteoversea,lark"
+  - "DOMAIN-KEYWORD,lark,lark"
+socks5ip: 1.1.1.1
+socks5port: 1080
+socks5user: "user"
+socks5pass: "pass"
